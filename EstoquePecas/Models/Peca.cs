@@ -2,7 +2,7 @@
 
 namespace EstoquePecas.Models
 {
-    public class PecaModel
+    public class Peca
     {
         public int Id_Peca { get; set; }
 
