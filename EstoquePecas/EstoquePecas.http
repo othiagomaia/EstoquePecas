@@ -1,0 +1,6 @@
+@EstoquePecas_HostAddress = http://localhost:5204
+
+GET {{EstoquePecas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
